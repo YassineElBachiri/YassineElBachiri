@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YassineElBachiri
-- 👀 I’m interested in web development and Blockchain development
-- 🌱 I’m currently learning mobile development
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning blockchain development
 
 
 <!---
