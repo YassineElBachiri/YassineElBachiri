@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @YassineElBachiri
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning blockchain development
+🚀 Web3 Enthusiast | Blockchain Developer | Senior CE Student | Innovating Decentralized Solutions 🌐
 
 
 <!---
