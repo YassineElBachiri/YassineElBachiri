@@ -1,4 +1,4 @@
-🚀 Web3 Enthusiast | Blockchain Developer | Senior CE Student | Innovating Decentralized Solutions 🌐
+🚀 Web3 Enthusiast | Blockchain Developer | CE Engineer | Innovating Decentralized Solutions 🌐
 
 
 <!---
