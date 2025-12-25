@@ -27,10 +27,24 @@ Through **ApexWeb3**, I share technical insights, tutorials, and real-world expe
 
 ### 🧪 QA Automation & Testing
 ![Playwright](https://img.shields.io/badge/playwright-%23000000.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-%23000000.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Test Cases](https://img.shields.io/badge/Test%20Cases-%23000000.svg?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Bug Tracking](https://img.shields.io/badge/Bug%20Tracking-%23000000.svg?style=for-the-badge&logo=bugcrowd&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%23000000.svg?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-%23000000.svg?style=for-the-badge)
+![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-%23000000.svg?style=for-the-badge)
+
+
 
 ### 🎨 Frontend
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
