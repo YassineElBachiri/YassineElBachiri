@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 Blockchain Developer & QA Automation Engineer | Founder & Blogger at ApexWeb3.com | Computer Engineer  
+🧑🏻‍💻 QA Automation Engineer & Blockchain Developer | Founder & Blogger at ApexWeb3.com | Computer Engineer  
 🧪 Testing Web2 & Web3 systems — from UI flows to smart contracts  
 🌐 Building, testing, and securing decentralized & automated solutions  
 
