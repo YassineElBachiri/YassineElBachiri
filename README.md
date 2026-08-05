@@ -17,61 +17,77 @@ Beyond coding, I build independent software projects, explore emerging technolog
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yubax99)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/y_a_s_s_i_n_e_el/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yubax01/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-el-bachiri-020a88170/)
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-### 🔗 Blockchain & Web3
-![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/ethers.js-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-![Viem](https://img.shields.io/badge/viem-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### 🧪 QA Automation & Testing
-![Playwright](https://img.shields.io/badge/playwright-%23000000.svg?style=for-the-badge&logo=playwright&logoColor=white)
-![API Testing](https://img.shields.io/badge/API%20Testing-%23000000.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Test Cases](https://img.shields.io/badge/Test%20Cases-%23000000.svg?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Bug Tracking](https://img.shields.io/badge/Bug%20Tracking-%23000000.svg?style=for-the-badge&logo=bugcrowd&logoColor=white)
-
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%23000000.svg?style=for-the-badge)
-![Regression Testing](https://img.shields.io/badge/Regression%20Testing-%23000000.svg?style=for-the-badge)
-![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-%23000000.svg?style=for-the-badge)
+---
 
-
-
-### 🎨 Frontend
+### ⚛️ Frontend Development
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 🤖 AI & Automation
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/openai-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFCC00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=swagger&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ---
 
-### ⚡ Databases & Tools
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+### 🧪 Testing & Quality Assurance
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-000000?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-000000?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-000000?style=for-the-badge)
+![Bug Tracking](https://img.shields.io/badge/Bug%20Tracking-000000?style=for-the-badge)
+
+---
+
+### ☁️ Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🔧 Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+### 🔗 Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+
+---
+
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
