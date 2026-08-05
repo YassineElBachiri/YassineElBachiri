@@ -1,12 +1,17 @@
-# 💫 About Me:
-🧑🏻‍💻 QA Automation Engineer & Blockchain Developer | Founder & Blogger at ApexWeb3.com | Computer Engineer  
-🧪 Testing Web2 & Web3 systems — from UI flows to smart contracts  
-🌐 Building, testing, and securing decentralized & automated solutions  
+# 💫 About Me
 
-I work at the intersection of **Blockchain engineering and Quality Assurance Automation**.  
-I design and test **smart contracts, DApps, and Web applications**, ensuring reliability, security, and performance across Web2 and Web3 environments.
+🧑🏻‍💻 **Software Engineer | Computer Engineering Graduate | Multilingual IT Professional**
 
-Through **ApexWeb3**, I share technical insights, tutorials, and real-world experiences around blockchain development, testing, and automation.
+💻 Passionate about building reliable, scalable, and secure software solutions.
+
+🔍 Experienced in software development, technical support, quality assurance, API integrations, and system troubleshooting across modern web applications.
+
+🌍 Fluent in **Arabic, Turkish, French, and English**, with experience collaborating in multicultural environments and bridging communication between technical teams.
+
+I enjoy solving complex technical problems, designing robust applications, and continuously learning new technologies. My background spans full-stack development, QA automation, REST APIs, cloud platforms, and blockchain technologies, giving me a strong foundation in software engineering principles and modern development practices.
+
+Beyond coding, I build independent software projects, explore emerging technologies, and share technical insights through **ApexWeb3**, where I write about software engineering, automation, blockchain, and modern web development.
+
 
 ---
 
